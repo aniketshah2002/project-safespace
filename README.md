@@ -128,10 +128,3 @@ uvicorn main:app --reload
 
 **Aniket Shah**
 *AI & Machine Learning Engineer*
-
-```
-
-### **Next Step:**
-Once you paste this and push it to GitHub, go to your repository's "Settings" tab, check the "Social Preview" section, and let me know if you want to generate a custom image to make the link look good when you share it on LinkedIn.
-
-```
