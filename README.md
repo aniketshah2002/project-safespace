@@ -1,5 +1,3 @@
-Here is the complete, single-snippet content for your `README.md`. You can copy this entire block and paste it directly into your file.
-
 ```markdown
 # 🛡️ SafeSpace: Agentic AI Content Moderator
 
