@@ -84,7 +84,7 @@ Response: Returns a JSON object with the verdict and guidance.
 🔮 Future Improvements
 Transformer Integration: Upgrade the classification backend to use BERT/DistilBERT for deeper contextual understanding.
 
-** LLM-Based Suggestions:** Replace rule-based suggestions with a small LLM to generate dynamic, story-specific rewrites.
+LLM-Based Suggestions: Replace rule-based suggestions with a small LLM to generate dynamic, story-specific rewrites.
 
 Feedback Loop: Implement a mechanism to log user corrections to improve the model over time.
 
