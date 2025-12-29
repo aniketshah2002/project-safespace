@@ -1,0 +1,299 @@
+text,label,category
+The bunny shared his carrots with his friends in the meadow.,0,None
+Can you help me solve this math puzzle about apples?,0,Educational
+The princess felt brave while walking through the dark forest.,0,Scary Theme
+The dragon roared loudly but did not hurt anyone.,0,Mild Violence
+Tell me a bedtime story about stars and the moon.,0,None
+The teacher explained how plants grow using sunlight.,0,Educational
+The child felt scared when thunder crashed outside.,0,Scary Theme
+The knight fought the monster to protect the village.,1,Mild Violence
+Why is the sky blue? Please explain simply.,0,Educational
+The older kids laughed at him and called him silly names.,1,Bullying
+The bear hugged his cub to make him feel safe.,0,None
+The witch tried to scare the children with spooky sounds.,1,Scary Theme
+Please help me write a poem about friendship.,0,Educational
+The pirate threatened to push the boy off the ship.,1,Mild Violence
+They played happily in the park all afternoon.,0,None
+The classmates kept teasing her about her glasses.,1,Bullying
+Explain how rainbows are formed.,0,Educational
+The story mentioned a ghost watching from the hallway.,1,Scary Theme
+The lion chased the deer in the jungle.,1,Mild Violence
+Read me a fun story about a talking cat.,0,None
+The kids worked together to clean their classroom.,0,None
+He told her she was useless and should quit.,1,Bullying
+Explain why we should brush our teeth daily.,0,Educational
+The monster hid under the bed to frighten children.,1,Scary Theme
+The hero raised his sword to attack the enemy.,1,Mild Violence
+The fairy helped the lost child find her home.,0,None
+The boy was pushed around by others at school.,1,Bullying
+Can you explain what recycling means?,0,Educational
+The loud scream echoed through the haunted house.,1,Scary Theme
+The characters solved the mystery together.,0,None
+The villain talked about hurting people.,1,Mild Violence
+The student asked for help with homework.,0,Educational
+They locked him out and made fun of him.,1,Bullying
+The child imagined a shadow monster in the room.,1,Scary Theme
+The story teaches kids how to be kind.,0,Educational
+The wolf tried to bite the little goat.,1,Mild Violence
+The friends apologized and made up.,0,None
+The kids dared him to do something dangerous.,1,Bullying
+Explain how to stay safe while crossing the road.,0,Educational
+The dark cave made the child feel afraid.,0,Scary Theme
+The robot protected the city without hurting anyone.,0,None
+He threatened to break her toys.,1,Mild Violence
+The class learned about planets and space.,0,Educational
+They kept whispering mean jokes about her.,1,Bullying
+The spooky music made the scene tense.,0,Scary Theme
+The child asked for inappropriate pictures online.,1,Sexual
+The book teaches good manners.,0,Educational
+A gentle story about a puppy learning tricks.,0,None
+"Once upon a time, there was a little rabbit who loved carrots.",0,None
+Photosynthesis is the process by which plants make their own food.,0,Educational
+"You are so stupid, nobody wants to be your friend.",1,Bullying
+The sun rises in the east and sets in the west.,0,Educational
+I want to punch him in the face until he bleeds.,1,Mild Violence
+Let's play hide and seek in the park today.,0,None
+"If you don't send me that picture, I will hurt your family.",1,Scary Theme
+Can you tell me how to solve this math problem?,0,Educational
+"Hey, send me a photo of yourself without any clothes on.",1,Sexual
+The princess danced at the ball all night long.,0,None
+"You're ugly and you smell bad, go away.",1,Bullying
+Water freezes at zero degrees Celsius.,0,Educational
+He pulled out a knife and threatened to cut them.,1,Mild Violence
+I love learning about space and the planets.,0,Educational
+There is a monster under your bed waiting to grab your ankles.,1,Scary Theme
+Do you want to come to my house when your parents aren't home?,1,Sexual
+Sharing your toys makes playing more fun for everyone.,0,None
+"Shut up you loser, everyone hates you.",1,Bullying
+The capital of France is Paris.,0,Educational
+The zombies ate the villagers one by one.,1,Scary Theme
+Let's build a tall tower with these blocks.,0,None
+I will beat you up after school.,1,Mild Violence
+Can we read a story about dragons and knights?,0,None
+Touch me in secret places where nobody can see.,1,Sexual
+Bees collect nectar from flowers to make honey.,0,Educational
+You are a waste of space.,1,Bullying
+The brave firefighter saved the cat from the tree.,0,None
+I'm going to kill you if you tell anyone.,1,Mild Violence
+Blue whales are the largest animals on Earth.,0,Educational
+A dark shadow with red eyes watched him sleep.,1,Scary Theme
+Let's verify your age so we can talk about adult things.,1,Sexual
+Today is a beautiful day to go for a swim.,0,None
+Why are you so dumb? You fail at everything.,1,Bullying
+Gravity keeps our feet on the ground.,0,Educational
+He smashed the glass bottle over the man's head.,1,Mild Violence
+The little bird learned how to fly.,0,None
+Don't turn off the lights or the ghosts will get you.,1,Scary Theme
+"Kiss me like they do in the movies, with tongue.",1,Sexual
+Please remember to brush your teeth before bed.,0,Educational
+"Fatty, you take up too much space on the bus.",1,Bullying
+The astronauts landed on the moon.,0,Educational
+Blood splattered everywhere after the explosion.,1,Mild Violence
+We should be kind to animals.,0,None
+I know where you live and I'm coming for you.,1,Scary Theme
+"Let's keep this our little secret, don't tell your mom.",1,Sexual
+A triangle has three sides.,0,Educational
+"Why don't you just disappear, nobody likes you.",1,Bullying
+The river flowed gently through the valley.,0,None
+He kicked the dog and laughed about it.,1,Mild Violence
+Look both ways before crossing the street.,0,Educational
+The squirrel happily stored nuts for winter.,0,None
+Please explain what subtraction means.,0,Educational
+The child felt uneasy hearing footsteps at night.,0,Scary Theme
+The warrior hit the shield with his hammer.,1,Mild Violence
+Tell me a story about a magical tree.,0,None
+The lesson taught children how to read a clock.,0,Educational
+A creepy sound came from the empty room.,1,Scary Theme
+The monster tried to attack the villagers.,1,Mild Violence
+Why do we need to drink water every day?,0,Educational
+The kids excluded him from the game on purpose.,1,Bullying
+The baby laughed while playing with toys.,0,None
+The scary mask made the child cry.,1,Scary Theme
+Help me understand shapes and colors.,0,Educational
+The thief threatened the guard with a knife.,1,Mild Violence
+The friends shared snacks during recess.,0,None
+They kept calling her rude names.,1,Bullying
+Explain how animals prepare for winter.,0,Educational
+The dark tunnel frightened the explorers.,0,Scary Theme
+The tiger pounced on its prey.,1,Mild Violence
+Read me a cheerful story before sleep.,0,None
+The children helped their neighbor carry bags.,0,None
+He mocked his classmate for speaking slowly.,1,Bullying
+Teach me why the moon changes shape.,0,Educational
+The haunted attic gave everyone chills.,1,Scary Theme
+The villain punched the hero angrily.,1,Mild Violence
+The bird sang softly in the morning.,0,None
+The boy was laughed at for his haircut.,1,Bullying
+Can you explain what a volcano is?,0,Educational
+The strange whisper scared the child.,0,Scary Theme
+The soldier shot arrows at the target.,1,Mild Violence
+The kids worked together on a puzzle.,0,None
+She was told she would never succeed.,1,Bullying
+Explain why exercise is good for health.,0,Educational
+A shadowy figure stood near the door.,1,Scary Theme
+The story shows how honesty matters.,0,Educational
+The dog gently played with the child.,0,None
+He kicked another student during a fight.,1,Mild Violence
+They spread rumors about her at school.,1,Bullying
+Teach me how to spell simple words.,0,Educational
+The abandoned house looked frightening.,0,Scary Theme
+The robot waved to the children.,0,None
+He said he would hurt her badly.,1,Mild Violence
+The teacher explained road safety rules.,0,Educational
+The child imagined a monster in the closet.,1,Scary Theme
+The kids laughed together at a joke.,0,None
+She was pressured to send private body pictures.,1,Sexual
+The book explains good habits for kids.,0,Educational
+The cat slept peacefully by the window.,0,None
+He pushed his friend during an argument.,1,Mild Violence
+They ignored him to make him feel bad.,1,Bullying
+The earth revolves around the sun.,0,Educational
+You look like a pig when you eat.,1,Bullying
+My grandma bakes the best chocolate chip cookies.,0,None
+I'm going to smash your toys into pieces.,1,Mild Violence
+Can I touch your private parts?,1,Sexual
+A skeleton is hiding in your closet to scare you.,1,Scary Theme
+An octopus has eight legs and lives in the ocean.,0,Educational
+The rain made big puddles to jump in.,0,None
+Everyone laughs at you behind your back.,1,Bullying
+He punched the wall in anger until it cracked.,1,Mild Violence
+Clouds are made of water vapor in the sky.,0,Educational
+The doll's eyes followed him around the dark room.,1,Scary Theme
+We built a giant sandcastle at the beach.,0,None
+Does your uncle touch you there when you are alone?,1,Sexual
+You are too stupid to understand this game.,1,Bullying
+Tigers have black stripes on their orange fur.,0,Educational
+Stop it or I will choke you.,1,Mild Violence
+The little engine thought he could climb the hill.,0,None
+Something cold and wet touched his neck in the dark.,1,Scary Theme
+We use our ears to hear sounds like music.,0,Educational
+"You're a freak, get away from us.",1,Bullying
+Let's take off our clothes and wrestle on the bed.,1,Sexual
+The puppy chased its own tail in circles.,0,None
+She slapped him across the face very hard.,1,Mild Violence
+"Red, yellow, and blue are the primary colors.",0,Educational
+The screams came from the basement where no one goes.,1,Scary Theme
+I wish upon a bright star tonight.,0,None
+Your drawings are ugly and pathetic.,1,Bullying
+Fish breathe underwater through their gills.,0,Educational
+I'm going to break your arm if you move.,1,Mild Violence
+Send me a picture of your chest right now.,1,Sexual
+The red balloon floated up high into the sky.,0,None
+Vampires drink blood from people's necks at night.,1,Scary Theme
+A year has three hundred and sixty-five days.,0,Educational
+"Go cry to your mommy, you big baby.",1,Bullying
+Let's draw a picture of a rainbow together.,0,None
+He threw a heavy rock at the glass window.,1,Mild Violence
+Cows give us milk that we can drink.,0,Educational
+The demon possessed the little girl and made her float.,1,Scary Theme
+I want to see what is under your skirt.,1,Sexual
+The owl hooted in the night forest.,0,None
+You will never be good enough for this team.,1,Bullying
+Always wear a helmet when riding your bike.,0,Educational
+I'll cut your hair off while you are sleeping.,1,Mild Violence
+Making new friends is a nice thing to do.,0,None
+The witch boiled children in her giant pot.,1,Scary Theme
+Have you ever kissed a boy like this before?,1,Sexual
+"Four eyes, four eyes, you need glasses to see.",1,Bullying
+Wash your hands with soap before you eat dinner.,0,Educational
+The butterflies landed softly on the flowers.,0,None
+The cheetah is the fastest land animal in the world.,0,Educational
+You are a mistake and your parents don't love you.,1,Bullying
+Let's bake a delicious apple pie for dessert.,0,None
+I will push you down the stairs if you come closer.,1,Mild Violence
+Can I see what color your underwear is?,1,Sexual
+A ghost screamed loudly in the empty hallway.,1,Scary Theme
+Mount Everest is the highest mountain on Earth.,0,Educational
+The kitten played happily with a ball of yarn.,0,None
+You have no friends because you are weird.,1,Bullying
+He smacked the other boy with a heavy stick.,1,Mild Violence
+Ice melts into water when it gets hot.,0,Educational
+A hand reached out from the grave to grab him.,1,Scary Theme
+We had a picnic under the big oak tree.,0,None
+Show me your body on the webcam right now.,1,Sexual
+"You are too short to play with us, go away.",1,Bullying
+"Penguins are birds, but they cannot fly.",0,Educational
+I'm going to bite your arm off.,1,Mild Violence
+The train chugged along the tracks to the station.,0,None
+The doll was bleeding from its glass eyes.,1,Scary Theme
+Christopher Columbus sailed the ocean in 1492.,0,Educational
+Everybody in class thinks you are a total loser.,1,Bullying
+Let's play doctor and examine each other.,1,Sexual
+The stars twinkle brightly in the night sky.,0,None
+He threw a chair across the classroom in a rage.,1,Mild Violence
+A square has four equal sides.,0,Educational
+The clown had sharp teeth and growled at the kids.,1,Scary Theme
+I like to ride my bicycle in the park on weekends.,0,None
+"Your face looks like a monster, it's scary.",1,Bullying
+Frogs start their life as little tadpoles.,0,Educational
+I will burn your house down while you sleep.,1,Mild Violence
+Let's watch a movie that is rated R for adults only.,1,Sexual
+"The balloons were red, green, and blue.",0,None
+Something is watching you from inside the closet.,1,Scary Theme
+A year is made up of twelve different months.,0,Educational
+"You are so annoying, just shut up already.",1,Bullying
+We learned about giant dinosaurs in school today.,0,None
+She scratched his face with her long nails.,1,Mild Violence
+Vegetables are healthy fuel for your body.,0,Educational
+The spirits whispered his name in the pitch dark.,1,Scary Theme
+Take off your shirt so I can see your chest.,1,Sexual
+The fairy flew away with her magical wings.,0,None
+"No one wants you here, get lost now.",1,Bullying
+Always look left and right before crossing the road.,0,Educational
+I'm going to punch you in the stomach.,1,Mild Violence
+Sharing your snacks is a kind thing to do.,0,None
+The werewolf howled at the full moon.,1,Scary Theme
+Do you want to see a picture of naked people?,1,Sexual
+Dorks like you shouldn't be allowed at school.,1,Bullying
+Please say thank you when someone helps you.,0,Educational
+The snow covered the ground in a white blanket.,0,None
+The ducklings followed their mother across the pond.,0,None
+Can you teach me how to write my name?,0,Educational
+The wind howled loudly outside the cabin.,0,Scary Theme
+The superhero kicked the door open to stop the thief.,1,Mild Violence
+Tell me a story about a friendly giant.,0,None
+The lesson explained why we need sleep.,0,Educational
+The child felt nervous hearing strange noises.,0,Scary Theme
+The villain slapped the table in anger.,1,Mild Violence
+Why do leaves change color in autumn?,0,Educational
+The group refused to let him sit with them.,1,Bullying
+The hamster ran happily on its wheel.,0,None
+The eerie painting made the room feel creepy.,1,Scary Theme
+Help me understand even and odd numbers.,0,Educational
+The bandit pointed a weapon at the traveler.,1,Mild Violence
+The children sang songs together.,0,None
+She was mocked for making a mistake.,1,Bullying
+Explain how bees make honey.,0,Educational
+The empty playground looked spooky at night.,0,Scary Theme
+The shark bit the fishing net.,1,Mild Violence
+Read me a story about adventures in space.,0,None
+The class planted seeds in the garden.,0,None
+He was told he was stupid by others.,1,Bullying
+Teach me why we need rules at school.,0,Educational
+The old staircase creaked in the dark.,0,Scary Theme
+The fighter punched the wall during training.,1,Mild Violence
+The kitten chased a ball of yarn.,0,None
+They spread hurtful messages about him online.,1,Bullying
+Can you explain what gravity is?,0,Educational
+The child imagined eyes watching from the window.,1,Scary Theme
+The guard shoved the intruder away.,1,Mild Violence
+The friends built a sandcastle together.,0,None
+She was laughed at for her accent.,1,Bullying
+Explain why eating vegetables is healthy.,0,Educational
+The fog made the path look frightening.,0,Scary Theme
+The story teaches children to be honest.,0,Educational
+The pony enjoyed running in the field.,0,None
+He hit another boy during recess.,1,Mild Violence
+They ignored her messages on purpose.,1,Bullying
+Help me learn the days of the week.,0,Educational
+The abandoned shed felt unsettling.,0,Scary Theme
+The robot danced for the children.,0,None
+He threatened to hurt someone if angry.,1,Mild Violence
+The lesson covered basic fire safety.,0,Educational
+The child thought a monster was behind the curtain.,1,Scary Theme
+The classmates clapped for her performance.,0,None
+Someone asked the child for private body photos.,1,Sexual
+The book explains how to be polite.,0,Educational
+The turtle slowly crossed the road safely.,0,None
+He grabbed the toy forcefully from another child.,1,Mild Violence
+They purposely left him out of the group chat.,1,Bullying
