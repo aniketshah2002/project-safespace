@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ SafeSpace: Agentic AI Content Moderator
 
 > **An intelligent, context-aware API designed to ensure safe and educational interactions between children and Generative AI tools.**
