@@ -65,7 +65,8 @@ Example Response (Agentic Output)
   "flagged_category": "Violence",
   "message": "Hold on! This looks a bit too violent. How can they solve this without fighting?",
   "agent_suggestion": "Try using words like 'helped' or 'rescued' instead."
-}
+}'''
+
 🧠 Project Architecture
 Input Layer: Receives raw text from the user.
 
